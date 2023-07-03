@@ -135,3 +135,7 @@ color: red;
   color: Black;
   cursor: pointer;
 }
+
+.search-input{
+margin-top: -22px
+}
